@@ -14,7 +14,7 @@ Structure from motion is a low-cost alternative to construct 3D representation o
 ## Team Members
 
 1. Kshitij Karnawat (<kshitij@terpmail.edu>)
-2. Hritvik Choudhary (<hac@umd.edu>)
+2. Hritvik Choudhari (<hac@umd.edu>)
 3. Abhimanyu Saxena (<asaxena4@umd.edu>)
 4. Mudit Singal (<msingal@umd.edu>)
 5. Raajith Gadam (<raajithg@umd.edu>)
@@ -78,3 +78,24 @@ To get the stitched point cloud run the following lines.
 cd scripts
 python3 generate_point_cloud.py
 ```
+## Results
+
+### Input scene
+<p align="center">
+<img src="https://github.com/Hritvik-Choudhari0411/Structure-from-Motion/blob/main/final%20raw.jpg" width="500" height="400"/>
+</p>
+
+### Depth map obtained using DPT architecture using MiDas NN as backbone
+<p align="center">
+<img src="https://github.com/Hritvik-Choudhari0411/Structure-from-Motion/blob/main/final%20depth.png" width="500" height="400"/>
+</p>
+
+### 3D reconstructed scene using Multiway registration
+<p align="center">
+<img src="https://github.com/Hritvik-Choudhari0411/Structure-from-Motion/blob/main/final%203d%20rec.png" width="500" height="400"/>
+</p>
+
+### Hardware implementation
+<p align="center">
+<img src="https://github.com/Hritvik-Choudhari0411/Structure-from-Motion/blob/main/hardware%20imp.mp4" width="500" height="400"/>
+</p>
