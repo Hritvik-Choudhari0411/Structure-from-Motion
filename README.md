@@ -97,5 +97,6 @@ python3 generate_point_cloud.py
 
 ### Hardware implementation
 <p align="center">
-<img src="https://github.com/Hritvik-Choudhari0411/Structure-from-Motion/blob/main/hardware%20imp.mp4" width="500" height="400"/>
+<img src="https://github.com/Hritvik-Choudhari0411/Structure-from-Motion/blob/main/Robot%20hardware.jpg" width="500" height="400"/>
 </p>
+Link: https://github.com/Hritvik-Choudhari0411/Structure-from-Motion/blob/main/hardware%20imp.mp4
